@@ -3,6 +3,6 @@
     "description": "Extension en français",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://git.disroot.org/ayza/FStream/raw/branch/main/plugins.json"
+        "https://raw.githubusercontent.com/beluchon/repo-fr/main/plugins.json"
     ]
 }
